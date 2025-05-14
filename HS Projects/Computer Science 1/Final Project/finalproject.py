@@ -1,4 +1,5 @@
 #FinalProject.py
+#Run this file to play game
 
 from Graphics import *
 from FinalProjectLogistics import *
