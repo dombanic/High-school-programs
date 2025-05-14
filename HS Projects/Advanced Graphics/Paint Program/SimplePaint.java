@@ -1,8 +1,7 @@
 // SimplePaint.java
 // The Paint Brush Program
 // Student Version
-
-// The Student version starts with just one color (red) and all that can be drawn is one pixel at a time.
+// Made in Collaboration with Karson Aronsson
 
 
 import java.awt.*;
