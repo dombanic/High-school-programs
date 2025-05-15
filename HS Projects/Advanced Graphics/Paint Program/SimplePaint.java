@@ -1,6 +1,5 @@
 // SimplePaint.java
 // The Paint Brush Program
-// Student Version
 // Made in Collaboration with Karson Aronsson
 
 
